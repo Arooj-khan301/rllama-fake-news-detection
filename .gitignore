@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+outputs/
+data/*.csv
+*.zip
+rankrag_lora_adapter/
+.ipynb_checkpoints/

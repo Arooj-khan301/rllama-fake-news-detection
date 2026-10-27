@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference this implementation or research framework, please cite our manuscript under review."
+title: "Fake News Detection on X Using Generative AI"
+authors:
+  - family-names: "Khan"
+    given-names: "Arooj"
+    affiliation: "The University of Haripur"
+  - family-names: "Alamri"
+    given-names: "Faten S."
+  - family-names: "Saba"
+    given-names: "Tanzila"
+  - family-names: "Shannag"
+    given-names: "Fatima"
+  - family-names: "Ahmed"
+    given-names: "Adeel"
+    affiliation: "The University of Haripur"
+status: "submitted"
+notes: "Manuscript currently under peer review."
